@@ -1,0 +1,22 @@
+﻿# R junk
+.Rhistory
+.Rproj.user/
+.RData
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Python venvs (if you end up using Python)
+.venv/
+venv/
+
+# Node (if any)
+node_modules/
+
+# Build artifacts
+*.log
+
+# You might still LFS-track images you want to keep, but ignore ad-hoc scratch images:
+# *.png
+# *.pdf
