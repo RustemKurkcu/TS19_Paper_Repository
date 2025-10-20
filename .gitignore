@@ -20,3 +20,9 @@ node_modules/
 # You might still LFS-track images you want to keep, but ignore ad-hoc scratch images:
 # *.png
 # *.pdf
+
+# Test data & heavy outputs
+data/test/
+output/
+output_test/**/tables/normalized_counts.csv
+
